@@ -1,0 +1,15 @@
+import streamlit as st
+# st.header("My Contact Details")
+# st.write("\n")
+# st.markdown("#### Phone No.: 9667905519")
+# st.markdown("#### Email Id : "'[reeteshsnshukla@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTNmrFqSHksCBpvTxMpQVXlRcWDgBpfJBJsfpflRTZFXDPvqtnKrCBqpfgnjRXmbDmScl)')
+# st.markdown("### Behance Profile: "'[Click Here](https://www.behance.net/reeteshshukla1)')
+
+st.header("Personal Details")
+st.write("")
+st.write("")
+st.write("**Linkedin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** _[Reetesh Kumar Shukla](https://www.linkedin.com/in/reeteshkumarshukla/)_")
+st.write("**Email Id:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** _[reeteshsnshukla@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTNmrFqSHksCBpvTxMpQVXlRcWDgBpfJBJsfpflRTZFXDPvqtnKrCBqpfgnjRXmbDmScl)_")
+st.write("**Phone No.:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** _(+91) 9667905519_")
+st.write("**Address:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** _C-264/B Pandav Nagar, New Delhi (India)_ [Map](https://maps.app.goo.gl/sDjK537uAhWhU5XG9?g_st=aw)")
+st.write("**Father's Name:&nbsp;&nbsp;&nbsp;&nbsp;** _Satya Narayan Shukla_")
