@@ -22,7 +22,7 @@ col4,col5, col6 = st.columns([1,1,1])
 # with col4:
 #     with st.expander("Wish We Had Never Met Each Other"):
 #         st.image(img5)
-with col5:
+with col4:
     with st.expander("Wish We Had Never Met Each Other"):
         st.image(img5)
 
